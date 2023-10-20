@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: OGP eGazette Site
+title: eGazette
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
