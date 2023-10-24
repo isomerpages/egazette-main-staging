@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: eGazette
+title: MCI E-gazette
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
