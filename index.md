@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to the E-gazette
-      subtitle: This is a demo site
-      background: /images/hero-banner.png
+      title: This is a beta site
+      subtitle: " The official publication of the Government of Singapore’s Notices
+        and Parliamentary Acts/Bills"
+      background: /images/hero banner.png
       url: /contact-us/
 ---
